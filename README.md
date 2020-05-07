@@ -44,7 +44,7 @@ Your project will be evaluated based on the contents of your GitHub repository, 
 2. README file 
 3. Presentation 
 
-The requirements for these components are described in detail in the rubric for the final capstone project [here](https://docs.google.com/spreadsheets/d/1YUC5_QVu8BEd7xBJumzspH40-KuJtL9KQInQYXGi5bE/edit?usp=sharing). You can learn how your teacher will use the rubric to review the project [here](https://github.com/learn-co-curriculum/dsc-campus-capstone-project-review).
+The requirements for these components are described in detail in the rubric for the final capstone project [here](https://docs.google.com/spreadsheets/d/1dm8_j7P6t3k67dpT2Sq4HMniK9zlP--GYkWJzYbnBFw/edit?usp=sharing). You can learn how your teacher will use the rubric to review the project [here](https://github.com/learn-co-curriculum/dsc-campus-capstone-project-review).
 
 **_NOTE:_** You'll see that data is not a component listed above. It is entirely possible that your data will be too large for a GitHub repository, and certain projects may rely on sensitive data that you should not upload to GitHub. That's okay! You should include a detailed explanation of where your data was sourced in your README, and provide a sample of the data that avoids the issues inherent in your full dataset if possible.
 
@@ -56,21 +56,33 @@ Take a look at this [technical report](https://github.com/paulinaczheng/twitter_
 
 ## The Timeline
 
+You are expected to have *at least 3 checkins* with Bryan and/or Lindsey during this module, one per week. We envision that the first one will focus on project design/problem outlining, the second one will focus on specific issues you're having in the modeling and problem-solving process so we can help you overcome those issues fast, and the third one will include a practice run of your presentation!
+
 Deadlines are denoted in **bold**, the rest are strong suggestions to help keep you on track.
 
-- May 13: If you have multiple ideas and are looking for instructor feedback, you should pitch 3 thought-out ideas to Bryan by the first Wednesday of the capstone module
+__WEEK 1:__
+
+- May 13: If you have multiple ideas and are looking for instructor feedback, you should pitch 3 thought-out ideas to Bryan by the first Wednesday of the capstone module. If you have no idea what to do your project on, you should have a meeting with Bryan to brainstorm by this point.
 
 - **May 15**: You _must_ have Bryan approve your full project design by **Friday, May 15**. This isn't just a Slack message that says "hey I'm doing this" but rather should be a thought-out project pitch in which you outline your data, your goals, potential pitfalls you foresee, the SO-WHAT of your project, etc. By this point, you also _must_ have gathered all the data you'll be using (if relevant)
 
+__WEEK 2:__
+
 - **May 22**: Your repository _must_ be set up, with a README and with at least one Jupyter Notebook, by **Friday, May 22**. This will allow the instructors to begin grading your project, so take the repository set-up seriously! We suggest that you finish any modeling and evaluation by this point (end of week 2), allowing plenty of time for you to work on your presentation and to further clean up your code and GitHub
 
-- **May 27, 12pm**: All modeling, presentation preparation, and deployment should be completed by **_NOON on Wednesday, May 27_**! 
+__WEEK 3:__
 
-- **May 28, 12pm**: Video _must_ be complete and uploaded, so all of the videos can be prepared for the Project Showcase
+- May 25: Memorial Day! We will be off for the day, do try to take some time and take a break - all the more reason to be done with your project by the end of week 2!
 
-- **May 28, 4:30-7pm**: **PROJECT SHOWCASE** Let's get this Zoom meeting packed with supporters, curious onlookers, and (most importantly) potential employers. Bring your A-Game. You got this.
+- **May 27**: Video _must_ be complete and uploaded by the end of the day on **Wednesday, May 27**. You _must_ meet with Bryan and/or Lindsey to give a practice run of your presentation before this.
+
+- May 28, Morning: We're gonna do some practice runs to make sure the webinar showcase runs smoothly. Great time to really practice delivering your presentation if you haven't already!
+
+- **May 28, Time TBA**: **PROJECT SHOWCASE** We're gonna get this webinar packed with supporters, curious onlookers, and (most importantly) potential employers. Bring your A-Game. You got this.
 
 - **May 29**: Last blog post due! We encourage you to do a writeup of the information you conveyed in your presentation about your Capstone - it'll be another way to showcase all of your hard work!
+
+- **May 29**: **GRADUATION** Cause y'all are all gonna cross this finish line together!
 
 ![Liz Lemon Let's Do This GIF](Lets-Do-This.gif)
 
