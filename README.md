@@ -46,6 +46,8 @@ Your project will be evaluated based on the contents of your GitHub repository, 
 
 The requirements for these components are described in detail in the rubric for the final capstone project [here](https://docs.google.com/spreadsheets/d/1dm8_j7P6t3k67dpT2Sq4HMniK9zlP--GYkWJzYbnBFw/edit?usp=sharing). You can learn how your teacher will use the rubric to review the project [here](https://github.com/learn-co-curriculum/dsc-campus-capstone-project-review).
 
+To check that you've met all minimum requirements to pass the Capstone, please use the [Capstone Submission Checklist](https://github.com/learn-co-students/HTX-DS-021720_Capstone-Submission-Checklist).
+
 **_NOTE:_** You'll see that data is not a component listed above. It is entirely possible that your data will be too large for a GitHub repository, and certain projects may rely on sensitive data that you should not upload to GitHub. That's okay! You should include a detailed explanation of where your data was sourced in your README, and provide a sample of the data that avoids the issues inherent in your full dataset if possible.
 
 **ADDITIONALLY** you must record a video of the presentation being given and upload it. We will provide instructions on how to do this!
